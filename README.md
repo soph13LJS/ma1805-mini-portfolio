@@ -1,4 +1,5 @@
 # ma1805-mini-portfolio
+Sophie Smith
 
 https://soph13ljs.github.io/ma1805-mini-portfolio/
 
